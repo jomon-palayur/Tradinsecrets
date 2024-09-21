@@ -323,6 +323,13 @@ button:focus {
 }
 
 
+#home-section {
+  background-image: url('images/bg_1.jpg');
+  background-size: cover;  /* Ensures the image covers the entire section */
+  background-position: center;  /* Centers the image */
+  background-repeat: no-repeat; /* Prevents repeating the image */
+  height: 100vh;  /* Makes the section full height */
+}
 
 
 
